@@ -14,9 +14,9 @@ Linkedin app with jetpack compose and new concept
 
 | Feed | Repost Action | Side bar | 
 | :--------------------: | :--------------------: | :--------------------: |
-| ![image](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/751b46a2-c513-4b62-a515-98def56a14c2) | ![image](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/7dc5babd-86c2-4f7c-a2af-ba813c4c2b4b) | ![image](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/085e2386-417a-459e-893b-68621ecebdd9) | 
+| ![image](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/a146be6d-baed-4514-b145-6ab8be8d3e32) | ![image](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/6a9e5103-a70d-42dd-b9a4-1cf9d36f3767) | ![image](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/5937b23d-45e9-4307-8c58-ef35cd4f6784) |
 
-![The power of jetpack compose is amazing!](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/7d1b5e01-bb1d-4e61-acc9-fa8f913b40af)
+![The power of jetpack compose is amazing!](https://github.com/ovitorhilario/modern-linkedin/assets/81326138/dab26906-c0a0-4673-a7db-915081228895)
 
 ## Contact me | #openToWork
 - Linkedin : https://www.linkedin.com/in/vitor-hilario/
