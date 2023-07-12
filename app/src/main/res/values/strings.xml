@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modern Linkedin</string>
+
+    <string name="feed">Feed</string>
+    <string name="jobs">Jobs</string>
+    <string name="network">Network</string>
+    <string name="notifications">Notifications</string>
+    <string name="new_post">Messages</string>
+    <string name="messages">Messages</string>
+    <string name="post">Post</string>
+</resources>
