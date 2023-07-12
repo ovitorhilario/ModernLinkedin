@@ -94,20 +94,20 @@ object FakeData {
             id = 3,
             authorId = 0,
             postText = "The new concept of the modern linkedin app is now available for testing!",
-            model = "https://i.pinimg.com/564x/d8/5a/e6/d85ae6502a5c99a6d9c8c035e238e3b3.jpg",
+            model = "https://github.com/ovitorhilario/modern-linkedin/assets/81326138/dab26906-c0a0-4673-a7db-915081228895",
             allComments = listOf(
                 CommentData(
-                    0, "This is very Important!"
+                    1, "Beautiful concept!"
                 ),
                 CommentData(
-                    1, "Tanks! @vitorhilario"
+                    0, "Thank you, @mulan"
                 )
             ),
             likes = 156,
             reposts = 36,
             shares = 18,
             reply = null,
-            timesAgo = "1d"
+            timesAgo = "5h"
         ),
     )
 }
